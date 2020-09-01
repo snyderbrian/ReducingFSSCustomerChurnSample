@@ -1,4 +1,4 @@
-# ReducingFSSCustomerChurnSample
+# Reducing Customer Churn Sample for Financial Services
 Import this sample project into CP4D 3.0.1.  It will show how to collect, build, test and deploy a model to be used in a live web application downstream to provide personalized offers based on demographics, trading activity, and churn risk rating.
 
 <b>Unzip Reducing Churn.zip</b> to your desktop.
